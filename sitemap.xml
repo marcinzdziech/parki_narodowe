@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://parki-narodowe.github.io/index.html</loc>
+    <loc>https://marcinzdziech.github.io/parki_narodowe/index.html</loc>
     <lastmod>2020-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://parki-narodowe.github.io/images/info.png</image:loc>
+      <image:loc>https://marcinzdziech.github.io/parki_narodowe/images/info.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://parki-narodowe.github.io/images/mapa%20polski.png</image:loc>
+      <image:loc>https://marcinzdziech.github.io/parki_narodowe/images/mapa%20polski.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://parki-narodowe.github.io/images/kampinoski_pn_540-crop-u333.jpg</image:loc>
+      <image:loc>https://marcinzdziech.github.io/parki_narodowe/images/kampinoski_pn_540-crop-u333.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://parki-narodowe.github.io/images/unnamed%20(1)-crop-u449.jpg</image:loc>
+      <image:loc>https://marcinzdziech.github.io/parki_narodowe/images/unnamed%20(1)-crop-u449.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://parki-narodowe.github.io/images/unnamed%20(2)-crop-u469.jpg</image:loc>
+      <image:loc>https://marcinzdziech.github.io/parki_narodowe/images/unnamed%20(2)-crop-u469.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://parki-narodowe.github.io/images/unnamed-crop-u489.jpg</image:loc>
+      <image:loc>https://marcinzdziech.github.io/parki_narodowe/images/unnamed-crop-u489.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://parki-narodowe.github.io/spis-park%C3%B3w.html</loc>
-    <lastmod>2020-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://parki-narodowe.github.io/%C5%BAr%C3%B3d%C5%82a.html</loc>
+    <loc>https://marcinzdziech.github.io/parki_narodowe/spis-park%C3%B3w.html</loc>
     <lastmod>2020-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://parki-narodowe.github.io/kampinowski.html</loc>
+    <loc>https://marcinzdziech.github.io/parki_narodowe/kampinowski.html</loc>
     <lastmod>2020-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://parki-narodowe.github.io/images/1200px-kampinoski_okragle_podstawowesvg.png</image:loc>
+      <image:loc>https://marcinzdziech.github.io/parki_narodowe/images/1200px-kampinoski_okragle_podstawowesvg.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://parki-narodowe.github.io/%C5%9Bwi%C4%99tokrzyski.html</loc>
+    <loc>https://marcinzdziech.github.io/parki_narodowe/wielkopolski.html</loc>
     <lastmod>2020-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://parki-narodowe.github.io/images/1024px-swietokrzyski_park_narodowysvg.png</image:loc>
+      <image:loc>https://marcinzdziech.github.io/parki_narodowe/images/wielkopolski_okragle_achromatyczne_rgb.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://parki-narodowe.github.io/wielkopolski.html</loc>
+    <loc>https://marcinzdziech.github.io/parki_narodowe/swietokrzyski.html</loc>
     <lastmod>2020-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://parki-narodowe.github.io/images/wielkopolski_okragle_achromatyczne_rgb.png</image:loc>
+      <image:loc>https://marcinzdziech.github.io/parki_narodowe/images/1024px-swietokrzyski_park_narodowysvg.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://parki-narodowe.github.io/s%C5%82owi%C5%84ski.html</loc>
+    <loc>https://marcinzdziech.github.io/parki_narodowe/slowinski.html</loc>
     <lastmod>2020-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://parki-narodowe.github.io/images/logo_s%C5%82owi%C5%84skiego_parku_narodowego.png</image:loc>
+      <image:loc>https://marcinzdziech.github.io/parki_narodowe/images/logo_s%C5%82owi%C5%84skiego_parku_narodowego.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://marcinzdziech.github.io/parki_narodowe/zrodla.html</loc>
+    <lastmod>2020-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

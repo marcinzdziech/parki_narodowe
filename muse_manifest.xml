@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcinzdziech.github.io" resolutions="1x" timestamp="1590764687284">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://marcinzdziech.github.io/parki_narodowe" resolutions="1x" timestamp="1590764970567">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-wzorcowa.css" crc="4053393360" ref="świętokrzyski:spis-parków:wielkopolski:źródła:index:słowiński:kampinowski"/>
-    <file name="_wi_tokrzyski.css" crc="3891259084" ref="świętokrzyski"/>
+    <file name="master_a-wzorcowa.css" crc="4053393360" ref="spis-parków:wielkopolski:index:kampinowski:swietokrzyski:slowinski:zrodla"/>
     <file name="spis-park_w.css" crc="246328076" ref="spis-parków"/>
     <file name="wielkopolski.css" crc="3887154938" ref="wielkopolski"/>
-    <file name="_r_d_a.css" crc="16053000" ref="źródła"/>
     <file name="index.css" crc="3770581239" ref="index"/>
-    <file name="s_owi_ski.css" crc="3924146168" ref="słowiński"/>
     <file name="kampinowski.css" crc="354336721" ref="kampinowski"/>
+    <file name="swietokrzyski.css" crc="3891259084" ref="swietokrzyski"/>
+    <file name="slowinski.css" crc="3924146168" ref="slowinski"/>
+    <file name="zrodla.css" crc="16053000" ref="zrodla"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:spis-parków:źródła:kampinowski:świętokrzyski:wielkopolski:słowiński"/>
-    <file name="museutils.js" crc="3939489907" ref="index:spis-parków:źródła:kampinowski:świętokrzyski:wielkopolski:słowiński"/>
-    <file name="whatinput.js" crc="86476730" ref="index:spis-parków:źródła:kampinowski:świętokrzyski:wielkopolski:słowiński"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:spis-parków:źródła:kampinowski:świętokrzyski:wielkopolski:słowiński"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:spis-parków:źródła:kampinowski:świętokrzyski:wielkopolski:słowiński"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:spis-parków:kampinowski:wielkopolski:swietokrzyski:slowinski:zrodla"/>
+    <file name="museutils.js" crc="3939489907" ref="index:spis-parków:kampinowski:wielkopolski:swietokrzyski:slowinski:zrodla"/>
+    <file name="whatinput.js" crc="86476730" ref="index:spis-parków:kampinowski:wielkopolski:swietokrzyski:slowinski:zrodla"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:spis-parków:kampinowski:wielkopolski:swietokrzyski:slowinski:zrodla"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:spis-parków:kampinowski:wielkopolski:swietokrzyski:slowinski:zrodla"/>
     <file name="webpro.js" crc="3856315280" ref="index"/>
     <file name="musewpslideshow.js" crc="244150766" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
     <file name="touchswipe.js" crc="3888935200" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index:spis-parków:źródła:kampinowski:świętokrzyski:wielkopolski:słowiński"/>
+    <file name="require.js" crc="4177726516" ref="index:spis-parków:kampinowski:wielkopolski:swietokrzyski:slowinski:zrodla"/>
   </folder>
   <folder name="images">
     <file name="info.png" crc="160153981" seo="true" ref="index">
@@ -49,21 +49,23 @@
     <file name="1200px-kampinoski_okragle_podstawowesvg.png" crc="3934742218" seo="true" ref="kampinowski">
       <caption webpage="kampinowski" alt=""/>
     </file>
-    <file name="1024px-swietokrzyski_park_narodowysvg.png" crc="3997567140" seo="true" ref="świętokrzyski">
+    <file name="1024px-swietokrzyski_park_narodowysvg.png" crc="3997567140" seo="true" ref="swietokrzyski">
+      <caption webpage="swietokrzyski" alt=""/>
       <caption webpage="świętokrzyski" alt=""/>
     </file>
     <file name="wielkopolski_okragle_achromatyczne_rgb.png" crc="3794351264" seo="true" ref="wielkopolski">
       <caption webpage="wielkopolski" alt=""/>
     </file>
-    <file name="logo_słowińskiego_parku_narodowego.png" crc="4062630432" seo="true" ref="słowiński">
+    <file name="logo_słowińskiego_parku_narodowego.png" crc="4062630432" seo="true" ref="slowinski">
       <caption webpage="słowiński" alt=""/>
+      <caption webpage="slowinski" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="334147131" seo="true" mt="1590764556613" redirect="true"/>
-  <file name="spis-parków.html" crc="3885931295" seo="true" mt="1590764556613" redirect="true"/>
-  <file name="źródła.html" crc="513589145" seo="true" mt="1590764556613" redirect="true"/>
-  <file name="kampinowski.html" crc="533266510" seo="true" mt="1590764556613" redirect="true"/>
-  <file name="świętokrzyski.html" crc="379977333" seo="true" mt="1590764556613" redirect="true"/>
-  <file name="wielkopolski.html" crc="4015950560" seo="true" mt="1590764556613" redirect="true"/>
-  <file name="słowiński.html" crc="372632383" seo="true" mt="1590764556613" redirect="true"/>
+  <file name="index.html" crc="94693103" seo="true" mt="1590764939879" redirect="true"/>
+  <file name="spis-parków.html" crc="46189831" seo="true" mt="1590764939879" redirect="true"/>
+  <file name="kampinowski.html" crc="119921160" seo="true" mt="1590764939879" redirect="true"/>
+  <file name="wielkopolski.html" crc="4250043001" seo="true" mt="1590764939879" redirect="true"/>
+  <file name="swietokrzyski.html" crc="4179891198" seo="true" mt="1590764939879" redirect="true"/>
+  <file name="slowinski.html" crc="301570155" seo="true" mt="1590764939879" redirect="true"/>
+  <file name="zrodla.html" crc="109225171" seo="true" mt="1590764939881" redirect="true"/>
 </manifest>
